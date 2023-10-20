@@ -1,1 +1,4 @@
-# 1c_project_task6
+Яквенко Илья Олегович
+6 задача
+Необходмы библиотеки tkinter, datetine, PIL
+Запуск через python3 main.py в терминале
