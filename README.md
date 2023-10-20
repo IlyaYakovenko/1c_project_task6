@@ -1,4 +1,4 @@
 Яквенко Илья Олегович
 6 задача
-Необходмы библиотеки tkinter, datetine, PIL
+Необходимы библиотеки tkinter, datetime, PIL
 Запуск через python3 main.py в терминале
